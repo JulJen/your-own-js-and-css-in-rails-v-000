@@ -1,6 +1,5 @@
-function hideWhenClicked(event) {
-	$(event.target)
-  $ta.hide();
+function hideWhenClicked(el) {
+	$(el.target).hide();
 }
 
 // // vanilla javascript

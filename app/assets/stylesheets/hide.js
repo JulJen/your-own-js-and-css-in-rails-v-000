@@ -4,4 +4,3 @@ function hideWhenClicked(el) {
 
 // // vanilla javascript
 // document.getElementById("hide_this").innerHTML = "";
-

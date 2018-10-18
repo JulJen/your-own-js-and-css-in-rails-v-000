@@ -1,9 +1,8 @@
-div.error  {
+.error  {
   color: red;
 }
 
 
-div..cool-background  {
-  color: grey;
+.cool-background {
+	background-color: #ccc;
 }
-

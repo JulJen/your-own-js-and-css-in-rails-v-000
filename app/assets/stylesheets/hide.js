@@ -1,4 +1,4 @@
-function hideWhenClicked(el) {
+function hideWhenClicked() {
   document.getElementById("hide_this").style.display = "";
 }
 
